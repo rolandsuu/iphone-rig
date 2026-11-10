@@ -1,0 +1,8 @@
+.rig/
+.venv/
+build/
+bin/
+firmware/.pio/
+calibration.json
+__pycache__/
+vendor/
